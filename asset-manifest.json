@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac4c08a4.chunk.css",
+    "main.js": "/static/js/main.bc48a989.chunk.js",
+    "main.js.map": "/static/js/main.bc48a989.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.50f4f71e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.50f4f71e.js.map",
+    "static/js/2.b888f493.chunk.js": "/static/js/2.b888f493.chunk.js",
+    "static/js/2.b888f493.chunk.js.map": "/static/js/2.b888f493.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ac4c08a4.chunk.css.map": "/static/css/main.ac4c08a4.chunk.css.map",
+    "static/js/2.b888f493.chunk.js.LICENSE.txt": "/static/js/2.b888f493.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/static/media/banner-m.d8373c40.png",
+    "static/media/umaru-chan-sad.93090c41.png": "/static/media/umaru-chan-sad.93090c41.png",
+    "static/media/nav-bar.css": "/static/media/zero-two-chibi.69693796.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50f4f71e.js",
+    "static/js/2.b888f493.chunk.js",
+    "static/css/main.ac4c08a4.chunk.css",
+    "static/js/main.bc48a989.chunk.js"
+  ]
+}
